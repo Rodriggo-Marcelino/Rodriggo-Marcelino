@@ -1,4 +1,4 @@
-### Hello World - Meu nome é Rodriggo Marcelino Santos 👋
+### Hello world - Meu nome é Rodriggo Marcelino Santos 👋
 
 - 🔭 Atualmente trabalho com desemvolvimento web.
 - 🌱 Acadêmico em ciências da computação.
