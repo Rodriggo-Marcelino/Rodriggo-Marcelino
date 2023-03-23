@@ -1,6 +1,6 @@
 ### Hello world - Meu nome é Rodriggo Marcelino Santos 👋
 
-- 🔭 Atualmente trabalho com desemvolvimento web.
+- 🔭 Atualmente trabalho com desenvolvimento web.
 - 🌱 Acadêmico em ciências da computação.
 - 💬 Contato de E-mail: rodriggo-santos@hotmail.com.
 - ⚡  Minha maior experiencia atualmente é javascript/typescript.
