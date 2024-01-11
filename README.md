@@ -6,7 +6,7 @@
 - ⚡  Minha maior experiencia atualmente é javascript/typescript.
 - 🔒 Gosto muito de estudar cyber-security também.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=strrodriggo&show_icons=true&theme=onedark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodriggo-Marcelino&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodriggo-js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
