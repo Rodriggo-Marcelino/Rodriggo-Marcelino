@@ -1,11 +1,8 @@
 ### Hello world - Meu nome é Rodriggo Marcelino Santos 👋
 
-- 🔭 Atualmente trabalho com desenvolvimento web.
+- 🔭 desenvolvedor back-end sênior.
 - 🌱 Acadêmico em ciências da computação.
 - 💬 Contato de E-mail: rodriggo-santos@hotmail.com.
-- ⚡  Minha maior experiencia atualmente é javascript/typescript.
-- 🔒 Gosto muito de estudar cyber-security também.
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodriggo-Marcelino&show_icons=true&theme=onedark)
 
 <div style="display: inline_block"><br>
