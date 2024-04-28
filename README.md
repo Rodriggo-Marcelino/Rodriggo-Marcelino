@@ -1,6 +1,7 @@
 ### Hello world - Meu nome é Rodriggo Marcelino Santos 👋
 
-- 🔭 desenvolvedor back-end sênior.
+- 🔭 desenvolvedor back-end.
+- 🔭 estudande de ciencias de dados.
 - 🌱 Acadêmico em ciências da computação.
 - 💬 Contato de E-mail: rodriggo-santos@hotmail.com.
 
