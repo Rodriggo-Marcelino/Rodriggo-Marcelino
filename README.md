@@ -4,7 +4,7 @@
 - 💻 Desenvolvedor Backend.
 - 📖 Leitor.
 - ♙ Enxadrista.
-- ☕️ Café.
+- ☕️ Viciado em café.
 - 🌱 Acadêmico em ciências da computação.
 - 💬 Contato de E-mail: rodriggo-santos@hotmail.com.
 
