@@ -4,14 +4,14 @@
 
 ---
 
-## 🧠 Core Skills (scan rápido)
+## 🧠 Competências principais 
 
-- Análise Exploratória de Dados (EDA)
-- Limpeza e preparação de dados
-- Estatística descritiva e correlação
-- Machine Learning supervisionado
-- Avaliação de modelos e métricas
-- Pipelines de ML
+- 🔹 Análise Exploratória de Dados (EDA)
+- 🔹 Limpeza e preparação de dados
+- 🔹 Estatística aplicada
+- 🔹 Modelos de Machine Learning
+- 🔹 Avaliação de modelos e métricas
+- 🔹 Pipelines robustos de ML
 
 ---
 
@@ -27,35 +27,24 @@
 
 ---
 
-## 📂 O que você encontrará aqui
+## 📂 O que você encontrará neste perfil
 
-✔️ EDA com visualização e heatmaps  
-✔️ Feature engineering  
-✔️ Modelos: KNN, Regressão Logística, Árvores, XGBoost  
+✔️ EDA com visualização e insights de dados  
+✔️ Feature engineering e pré-processamento  
+✔️ Aprendizado **não supervisionado** (clustering, redução de dimensionalidade)  
+✔️ Modelos supervisionados: KNN, Regressão Logística, Árvores, XGBoost  
+✔️ **Redes neurais** e fundamentos de Deep Learning  
 ✔️ Pipelines com `Pipeline` e `ColumnTransformer`  
-✔️ Código limpo, versionado e reprodutível  
+✔️ Projetos documentados com métricas claras  
+✔️ Código limpo, versionado e reprodutível
 
 ---
 
-## 🚀 Projetos-Chave
+## 📈 GitHub Activity
 
-- Pipeline completo de Machine Learning com XGBoost  
-- Estudos avançados de NumPy aplicados à Análise de Dados  
-- Classificação supervisionada com avaliação de métricas  
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rodriggo-Marcelino&theme=github_dark" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rodriggo-Marcelino&theme=github_dark" />
+
 
 ---
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&hide_title=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact)
-
----
-
-## 🎯 Objetivo Profissional
-
-Atuar como **Cientista de Dados**, aplicando estatística e Machine Learning para resolver problemas reais e gerar valor a partir de dados.
-
-
-
-
