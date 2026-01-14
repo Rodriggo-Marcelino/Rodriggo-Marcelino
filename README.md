@@ -6,12 +6,12 @@
 
 ## 🧠 Competências principais 
 
-- 🔹 Análise Exploratória de Dados (EDA)
-- 🔹 Limpeza e preparação de dados
-- 🔹 Estatística aplicada
-- 🔹 Modelos de Machine Learning
-- 🔹 Avaliação de modelos e métricas
-- 🔹 Pipelines robustos de ML
+-  Análise Exploratória de Dados (EDA)
+-  Limpeza e preparação de dados
+-  Estatística aplicada
+-  Modelos de Machine Learning
+-  Avaliação de modelos e métricas
+-  Pipelines robustos de ML
 
 ---
 
